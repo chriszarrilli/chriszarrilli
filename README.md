@@ -1,5 +1,3 @@
-Travel, skateboarding, foreign language.
-- 🌱 I’m currently learning JavaScript. 
 
 <!---
 chriszarrilli/chriszarrilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
